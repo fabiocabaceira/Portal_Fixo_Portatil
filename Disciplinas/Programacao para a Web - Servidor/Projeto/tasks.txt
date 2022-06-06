@@ -1,0 +1,1 @@
+adicionar active record (connectar a base de dados)

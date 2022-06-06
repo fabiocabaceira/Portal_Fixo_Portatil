@@ -1,2 +1,0 @@
-Mudar user para cliente na base de dados 
-adicionar uma entidade funcionarios na base de dados (no pdf diz que sao os funcionarios a emitir as faturas)
