@@ -1,0 +1,7 @@
+CREATE DATABASE BDLoja;
+USE BDLoja;
+CREATE TABLE categorias (
+idcategoria INT PRIMARY KEY AUTO_INCREMENT,
+designacao VARCHAR(30) NOT NULL
+);
+

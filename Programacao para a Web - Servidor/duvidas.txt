@@ -1,0 +1,8 @@
+Ficha 3 ex 7
+
+duvidas 
+
+- introduzir valores do array na tabela 
+- usar css para a tabela
+- porque e que tenho de usar o carbon 
+- como usar o carbon

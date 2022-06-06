@@ -1,0 +1,40 @@
+﻿idcategoria;designacao
+1;Computador
+2;Componentes
+3;Periféricos
+4;"Computador de Mesa"
+5;Portátil
+6;PDA
+7;Caixa
+8;"Drive CD/DVD"
+9;"Gravador CD/DVD"
+12;"Drive Disquete"
+13;Motherboard
+14;Processador
+15;"Memória RAM"
+16;"Disco Rígido"
+17;"Placa Gráfica"
+18;"Placa Som"
+19;Teclado
+20;Rato
+21;"Placa TV"
+23;Monitor
+24;Impressora
+25;Colunas
+26;Scanner
+27;UPS
+28;WebCam
+29;"Disco Flash"
+30;Router
+32;"Outros Produtos"
+33;Consumíveis
+35;"Mão Obra"
+37;"Camara Fotográfica"
+38;"Camara Video"
+39;"Fontes de Alimentação"
+40;"Cartões de Memória"
+41;GPSX
+42;"Leitor MP3"
+43;"Outros Componentes"
+44;"Outros Periféricos"
+45;Vários
