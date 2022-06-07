@@ -1,0 +1,17 @@
+Uma relacao R esta na 1 forma normal se e so se:
+
+Contem atributos com valores atomicos 
+Nao tem atributos com o mesmo significado 
+
+
+Uma relacao R esta 2 forma normal se e so se :
+Esta na primeira forma normal
+e os seus atributos que nao sao chave tem de depender inteiramente da chave 
+
+
+Terceira forma normal
+
+Uma relacao R esta na 3 forma normal se e so se:
+estiver na segunda forma normal
+nenhum atributo que nao seja chave depende de outro atributo que tambem nao e chave
+
