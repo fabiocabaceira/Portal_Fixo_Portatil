@@ -1,1 +1,6 @@
-adicionar active record (connectar a base de dados)
+. Fazer um router para os ficheiros php 
+. Abrir wamp e executar base de dados 
+. Programa para ir buscar info da base de dados para a fatura 
+. Css para a aplicacao 
+
+
