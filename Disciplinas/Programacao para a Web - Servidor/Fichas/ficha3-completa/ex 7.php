@@ -27,7 +27,7 @@ $planoprestacoes = array();
 
 //Loop for para o preencher
     for($i=0; $i<$numPrest; $i++){
-        $planoprestacoes[$i] = array($i, $d->day. "-".$d->month. "-".$d->year, $valorPrestMensal, $credito - ($valorPrestMensal * $i));
+        $planoprestacoes[$i] = array($i. "-", $d->day. "-".$d->month. "-".$d->year, $valorPrestMensal, $credito - ($valorPrestMensal * $i));
         $d->addMonth();
     }
 
@@ -42,11 +42,13 @@ echo "<table>
 
 
 for($b=1; $b<$numPrest; $b++ ) {
-    echo "<tr>";
     foreach($planoprestacoes as $value) {
-        print_r( '<th>'); print implode($planoprestacoes[$b]);  print_r( '</th>');
-            }
 
+        for ($c = 0; $c <= 3; $c++) {
+
+            echo '<td>' .  $planoprestacoes[$b][$c] .  '</td>';
+        }
+            }
 
     echo "</tr>";
 }
