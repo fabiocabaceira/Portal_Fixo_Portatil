@@ -28,14 +28,14 @@ PRIMARY KEY (id)
 CREATE TABLE Particular(
 apelido 	VARCHAR(16)					NOT NULL,
 id 			INT							NOT NULL		AUTO_INCREMENT,
-FKPID 		INT,
+clienteid		INT,
 PRIMARY KEY (id)
 )ENGINE=INNODB;
 
 CREATE TABLE ClientesEmpresas(
 sigla 		VARCHAR(4)					NOT NULL,
 id 			INT							NOT NULL		AUTO_INCREMENT,
-FKCeID 		INT,
+clienteid 		INT,
 PRIMARY KEY (id)
 )ENGINE=INNODB;
 
@@ -44,8 +44,8 @@ id 			INT 			UNIQUE 		NOT NULL		AUTO_INCREMENT,
 grau		VARCHAR(2)					NOT NULL,
 dtavalidade	DATE 						NOT NULL,
 dtaemissao 	DATE						NOT NULL,
-FKCaID1 		INT										, 
-FKCaID2			INT										, 
+idservico 		INT										, 
+idcliente		INT										, 
 PRIMARY KEY (id)
 )ENGINE=INNODB;
 
@@ -54,7 +54,7 @@ id 			INT				UNIQUE 		NOT NULL		AUTO_INCREMENT,
 inicio 		DATE						NOT NULL,
 fim			DATE						NOT NULL,
 empresa		VARCHAR(32)					NOT NULL,
-FKPaID 		INT ,
+servicoid 		INT ,
 PRIMARY KEY (id)
 )ENGINE=INNODB;
 
@@ -65,7 +65,7 @@ apelido			VARCHAR(16)					NOT NULL,
 nif				INT(9)			UNIQUE		NOT NULL,
 cargo 			VARCHAR(16)					NOT NULL,
 dtaNascimento	DATE						NOT NULL    ,
-FKEID 		INT,
+servicoid 		INT,
 PRIMARY KEY (id)
 )ENGINE=INNODB;
 
@@ -75,14 +75,14 @@ marca 			VARCHAR(16) 				NOT NULL,
 modelo			VARCHAR(99)					NOT NULL,
 matricula		VARCHAR(6)					NOT NULL,
 ano 			INT						NOT NULL,
-FKVdeID 		INT,
+empregadoid 		INT,
 PRIMARY KEY (id)
 )ENGINE=INNODB;
 
 CREATE TABLE Servico(
 id 				INT				UNIQUE		NOT NULL	AUTO_INCREMENT,
 tipoDeServico	VARCHAR(99)					NOT NULL,
-FKSID 		INT,
+servicocontratadoid 		INT,
 PRIMARY KEY (id)
 )ENGINE=INNODB;
 
@@ -91,56 +91,56 @@ id 				INT				UNIQUE		NOT NULL	AUTO_INCREMENT,
 valor			DOUBLE						NOT NULL,
 datainicio		DATE						NOT NULL,
 datafim			DATE						NOT NULL,
-FKScID 		INT,
+clienteid 		INT,
 PRIMARY KEY (id) 
 )ENGINE=INNODB;
 
 CREATE TABLE ChefeDeServico(
 id 				INT				UNIQUE		NOT NULL	AUTO_INCREMENT,
-FKCdsID 		INT,
+empregadoid 		INT,
 PRIMARY KEY (id) 
 )ENGINE=INNODB;
 
 
 ALTER TABLE Particular
-ADD CONSTRAINT FKPrID FOREIGN KEY (id)
+ADD CONSTRAINT FKPrID FOREIGN KEY (clienteid)
 					REFERENCES Clientes(id);
                     
 ALTER TABLE ClientesEmpresas
-ADD CONSTRAINT FKCeID FOREIGN KEY (id)
+ADD CONSTRAINT FKCeID FOREIGN KEY (clienteid)
 					REFERENCES Clientes(id);
                     
-ALTER TABLE servicocontratado
-ADD CONSTRAINT FKScID FOREIGN KEY (id)
+ALTER TABLE ServicoContratado
+ADD CONSTRAINT FKScID FOREIGN KEY (clienteid)
 					REFERENCES Clientes(id);
                     
-ALTER TABLE servico
-ADD CONSTRAINT FKSID FOREIGN KEY (id)
-					REFERENCES servicocontratado(id);
+ALTER TABLE Servico
+ADD CONSTRAINT FKSID FOREIGN KEY (servicocontratadoid)
+					REFERENCES ServicoContratado(id);
                     
-ALTER TABLE parcerias
-ADD CONSTRAINT FKPaID FOREIGN KEY (id)
-					REFERENCES servico(id);
+ALTER TABLE Parcerias
+ADD CONSTRAINT FKPaID FOREIGN KEY (servicoid)
+					REFERENCES Servico(id);
                     
-ALTER TABLE empregados
-ADD CONSTRAINT FKEID FOREIGN KEY (id)
-					REFERENCES servico(id);
+ALTER TABLE Empregados
+ADD CONSTRAINT FKEID FOREIGN KEY (servicoid)
+					REFERENCES Servico(id);
                     
 ALTER TABLE ChefeDeServico
-ADD CONSTRAINT FKCdsID FOREIGN KEY (id)
-					REFERENCES empregados(id);
+ADD CONSTRAINT FKCdsID FOREIGN KEY (empregadoid)
+					REFERENCES Empregados(id);
                     
 ALTER TABLE ViaturaDeEmpresa
-ADD CONSTRAINT FKVdeID FOREIGN KEY (id)
-					REFERENCES empregados(id);
+ADD CONSTRAINT FKVdeID FOREIGN KEY (empregadoid)
+					REFERENCES Empregados(id);
                     
 ALTER TABLE CertAtribuidos
-ADD CONSTRAINT FKCaID1 FOREIGN KEY (id)
-					REFERENCES servico(id);
+ADD CONSTRAINT FKCaID1 FOREIGN KEY (idservico)
+					REFERENCES Servico(id);
                     
 ALTER TABLE CertAtribuidos
-ADD CONSTRAINT FKCaID2 FOREIGN KEY (id)
-					REFERENCES clientes(id);
+ADD CONSTRAINT FKCaID2 FOREIGN KEY (idcliente)
+					REFERENCES Clientes(id);
 
 
 

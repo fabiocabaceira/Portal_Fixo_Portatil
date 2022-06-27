@@ -30,89 +30,48 @@ VALUES ('Tiago', 'tiagobortonea@gmail.com','291409520', 'R José Peixoto 81', '�
 INSERT INTO Clientes(nome,email,nif,rua,localidade,telefone)
 VALUES ('Rodrigo', 'rodrigoregina@gmail.com','252891465', 'R Rampa Alta 72', 'Porto','289228293');
 
+
 /* Inserção de dados na tabela Particular*/
 
-INSERT INTO Particular (apelido, FKPID)
+INSERT INTO Particular (apelido, clienteid)
 VALUES ('Regina', '1');
 
-INSERT INTO Particular (apelido, FKPID)
+INSERT INTO Particular (apelido, clienteid)
 VALUES ('Bortone', '2');
 
-INSERT INTO Particular (apelido, FKPID)
+INSERT INTO Particular (apelido, clienteid)
 VALUES ('Bortone', '3');
 
-INSERT INTO Particular (apelido, FKPID)
+INSERT INTO Particular (apelido, clienteid)
 VALUES ('Bortone', '4');
 
-INSERT INTO Particular (apelido, FKPID)
+INSERT INTO Particular (apelido, clienteid)
 VALUES ('Bortone', '5');
 
-INSERT INTO Particular (apelido, FKPID)
+INSERT INTO Particular (apelido, clienteid)
 VALUES ('Regina', '6');
 
 
 /* Inserção de dados na tabela ClientesEmpresas*/
 
 
-INSERT INTO ClientesEmpresas (sigla,FKCeID)
+INSERT INTO ClientesEmpresas (sigla,clienteid)
 VALUES ('MEI', '1');
 
-INSERT INTO ClientesEmpresas (sigla,FKCeID)
+INSERT INTO ClientesEmpresas (sigla,clienteid)
 VALUES ('ME', '2');
 
-INSERT INTO ClientesEmpresas (sigla,FKCeID)
+INSERT INTO ClientesEmpresas (sigla,clienteid)
 VALUES ('EPP', '3');
 
-INSERT INTO ClientesEmpresas (sigla,FKCeID)
+INSERT INTO ClientesEmpresas (sigla,clienteid)
 VALUES ('SA', '4');
 
-INSERT INTO ClientesEmpresas (sigla,FKCeID)
+INSERT INTO ClientesEmpresas (sigla,clienteid)
 VALUES ('CRM', '5');
 
-INSERT INTO ClientesEmpresas (sigla,FKCeID)
+INSERT INTO ClientesEmpresas (sigla,clienteid)
 VALUES ('ERP', '6');
-
-
-/* Inserção de dados na tabela CertAtribuidos*/
-
-INSERT INTO CertAtribuidos (grau, dtavalidade, dtaemissao, FKCaID1, FKCaID2)
-VALUES ('A+', '2024-06-10', '2014-06-10', '1', '1' );
-
-INSERT INTO CertAtribuidos (grau, dtavalidade, dtaemissao, FKCaID1, FKCaID2)
-VALUES ('A', '2025-07-10', '2015-07-10', '2', '2'  );
-
-INSERT INTO CertAtribuidos (grau, dtavalidade, dtaemissao, FKCaID1, FKCaID2)
-VALUES ('B', '2026-08-10', '2016-08-10', '3', '3'  );
-
-INSERT INTO CertAtribuidos (grau, dtavalidade, dtaemissao, FKCaID1, FKCaID2)
-VALUES ('C', '2027-09-10', '2017-09-10', '4', '4'  );
-
-INSERT INTO CertAtribuidos (grau, dtavalidade, dtaemissao, FKCaID1, FKCaID2)
-VALUES ('D', '2028-10-10', '2018-10-10', '5', '5'  );
-
-INSERT INTO CertAtribuidos (grau, dtavalidade, dtaemissao, FKCaID1, FKCaID2)
-VALUES ('E', '2029-11-10', '2019-11-10', '6', '6'  );
-
-
-/* Inserção de dados na tabela Empregados*/
-
-INSERT INTO Empregados(nome,apelido,nif,cargo,dtaNascimento, FKEID)
-VALUES ('Ana', 'Marques', '285293591', 'Sócio-gerente', '1990-08-21', '1' );
-
-INSERT INTO Empregados(nome,apelido,nif,cargo,dtaNascimento, FKEID)
-VALUES ('Cristóvão', 'Marques', '267420781', 'Sócio-gerente', '1990-05-8', '2' );
-
-INSERT INTO Empregados(nome,apelido,nif,cargo,dtaNascimento, FKEID)
-VALUES ('Miguel', 'Marques', '289241782', 'Programador', '2003-09-9', '3' );
-
-INSERT INTO Empregados(nome,apelido,nif,cargo,dtaNascimento, FKEID)
-VALUES ('Luis', 'Inácio', '282408436', 'Programador', '1973-09-15' );
-
-INSERT INTO Empregados(nome,apelido,nif,cargo,dtaNascimento, FKEID)
-VALUES ('Beatriz', 'Salvador', '246651440', 'Secretária', '1976-03-5' );
-
-INSERT INTO Empregados(nome,apelido,nif,cargo,dtaNascimento, FKEID)
-VALUES ('Manuel', 'Alexandre', '227438256', 'Técnico', '1980-02-6');
 
 
 /* Inserção de dados na tabela Parcerias*/
@@ -177,6 +136,26 @@ VALUES ('5000', '2022-02-3','2022-08-3');
 INSERT INTO ServicoContratado(valor,datainicio,datafim)
 VALUES ('6000', '2022-01-3','2022-07-3');
 
+/* Inserção de dados na tabela Empregados*/
+
+INSERT INTO Empregados(nome,apelido,nif,cargo,dtaNascimento, servicoid)
+VALUES ('Ana', 'Marques', '285293591', 'Sócio-gerente', '1990-08-21', '1' );
+
+INSERT INTO Empregados(nome,apelido,nif,cargo,dtaNascimento, servicoid)
+VALUES ('Cristóvão', 'Marques', '267420781', 'Sócio-gerente', '1990-05-8', '2' );
+
+INSERT INTO Empregados(nome,apelido,nif,cargo,dtaNascimento, servicoid)
+VALUES ('Miguel', 'Marques', '289241782', 'Programador', '2003-09-9', '3' );
+
+INSERT INTO Empregados(nome,apelido,nif,cargo,dtaNascimento)
+VALUES ('Luis', 'Inácio', '282408436', 'Programador', '1973-09-15' );
+
+INSERT INTO Empregados(nome,apelido,nif,cargo,dtaNascimento)
+VALUES ('Beatriz', 'Salvador', '246651440', 'Secretária', '1976-03-5' );
+
+INSERT INTO Empregados(nome,apelido,nif,cargo,dtaNascimento)
+VALUES ('Manuel', 'Alexandre', '227438256', 'Técnico', '1980-02-6');
+
 
 /* Inserção de dados na tabela ViaturaDeEmpresa*/
 
@@ -196,10 +175,28 @@ INSERT INTO ViaturaDeEmpresa(marca,modelo,matricula,ano)
 VALUES ('BMW', 'BMW iX3 ','AC06AC', '2022');
 
 INSERT INTO ViaturaDeEmpresa(marca,modelo,matricula,ano)
-VALUES ('Mercedes', 'Classe S','AE02AE', '2022')
+VALUES ('Mercedes', 'Classe S','AE02AE', '2022');
 
 
+/* Inserção de dados na tabela CertAtribuidos*/
 
+INSERT INTO CertAtribuidos (grau, dtavalidade, dtaemissao, idservico, idcliente)
+VALUES ('A+', '2024-06-10', '2014-06-10', '1', '1' );
+
+INSERT INTO CertAtribuidos (grau, dtavalidade, dtaemissao, idservico, idcliente)
+VALUES ('A', '2025-07-10', '2015-07-10', '2', '2'  );
+
+INSERT INTO CertAtribuidos (grau, dtavalidade, dtaemissao, idservico, idcliente)
+VALUES ('B', '2026-08-10', '2016-08-10', '3', '3'  );
+
+INSERT INTO CertAtribuidos (grau, dtavalidade, dtaemissao, idservico, idcliente)
+VALUES ('C', '2027-09-10', '2017-09-10', '4', '4'  );
+
+INSERT INTO CertAtribuidos (grau, dtavalidade, dtaemissao, idservico, idcliente)
+VALUES ('D', '2028-10-10', '2018-10-10', '5', '5'  );
+
+INSERT INTO CertAtribuidos (grau, dtavalidade, dtaemissao, idservico, idcliente)
+VALUES ('E', '2029-11-10', '2019-11-10', '6', '6'  );
 
 
 
