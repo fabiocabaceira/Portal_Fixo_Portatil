@@ -1,0 +1,55 @@
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.exe.config
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.exe
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.pdb
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\ProtocolSI.dll
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.exe
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.pdb
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.exe.config
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.exe
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.pdb
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\ProtocolSI.dll
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.exe
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.pdb
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.exe.config
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.exe
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.pdb
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\ProtocolSI.dll
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.exe
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.pdb
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\ServerDB.mdf
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\Server\bin\Debug\ServerDB_log.ldf
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\bin\Debug\ServerDB.mdf
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\bin\Debug\ServerDB_log.ldf
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.exe.config
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.exe
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.pdb
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\bin\Debug\ProtocolSI.dll
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.exe
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.pdb
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\Server\bin\Debug\serverDB.mdf
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\Server\bin\Debug\serverDB_log.ldf
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.exe.config
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.exe
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\Server\bin\Debug\Server.pdb
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\Server\bin\Debug\ProtocolSI.dll
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.exe
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\Server\obj\Debug\Server.pdb

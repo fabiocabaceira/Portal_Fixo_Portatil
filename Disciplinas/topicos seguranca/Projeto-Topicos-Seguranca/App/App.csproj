@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2FCD768F-52B0-495E-905F-944C2182F7AB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>App</RootNamespace>
+    <AssemblyName>App</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="ProtocolSI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ProtocolSI_alunos\ProtocolSI.dll</HintPath>
+    </Reference>
+    <Reference Include="Server">
+      <HintPath>..\Server\bin\Debug\Server.exe</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App.Designer.cs">
+      <DependentUpon>App.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpingClasses\Client.cs" />
+    <Compile Include="Components\ChatLayout\ChatLayout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\ChatLayout\ChatLayout.Designer.cs">
+      <DependentUpon>ChatLayout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\Header\AppHeader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\Header\AppHeader.Designer.cs">
+      <DependentUpon>AppHeader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\NavigationLogin\Functions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpingClasses\CustomFont.cs" />
+    <Compile Include="Components\NavigationLogin\NavigationLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\NavigationLogin\NavigationLogin.Designer.cs">
+      <DependentUpon>NavigationLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\LoginForm\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\LoginForm\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\NavigationLoggedIn\NavigationLoggedIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\NavigationLoggedIn\NavigationLoggedIn.Designer.cs">
+      <DependentUpon>NavigationLoggedIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpingClasses\LoaderMessages.cs" />
+    <Compile Include="Components\Message\NotYourMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\Message\NotYourMessage.Designer.cs">
+      <DependentUpon>NotYourMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpingClasses\MessageHelper.cs" />
+    <Compile Include="Components\Loader\Loader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\Loader\Loader.Designer.cs">
+      <DependentUpon>Loader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\Notification\Notification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\Notification\Notification.Designer.cs">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Components\RegisterForm\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\RegisterForm\RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpingClasses\LoaderController.cs" />
+    <Compile Include="Components\Message\YourMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\Message\YourMessage.designer.cs">
+      <DependentUpon>YourMessage.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="App.resx">
+      <DependentUpon>App.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\ChatLayout\ChatLayout.resx">
+      <DependentUpon>ChatLayout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\Header\AppHeader.resx">
+      <DependentUpon>AppHeader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\Loader\Loader.resx">
+      <DependentUpon>Loader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\LoginForm\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\Message\NotYourMessage.resx">
+      <DependentUpon>NotYourMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\NavigationLogin\NavigationLogin.resx">
+      <DependentUpon>NavigationLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\NavigationLoggedIn\NavigationLoggedIn.resx">
+      <DependentUpon>NavigationLoggedIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\Notification\Notification.resx">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\RegisterForm\RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\Message\YourMessage.resx">
+      <DependentUpon>YourMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Assets\font\RobotoSlab-Bold.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Assets\font\RobotoSlab-Regular.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\navigationLogin-icons\Login-active.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\navigationLogin-icons\Register-active.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\header\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\header\maximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\header\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\navigationLogin-icons\login-normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\navigationLogin-icons\register-normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\profile\ProfileIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\profile\Logout-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\profile\MessageProfile-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\profile\profile__icon__clr119_86_0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\profile\profile__icon__clr0_5_130.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\profile\profile__icon__clr0_106_130.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\profile\profile__icon__clr129_0_231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\profile\profile__icon__clr0_157_224.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

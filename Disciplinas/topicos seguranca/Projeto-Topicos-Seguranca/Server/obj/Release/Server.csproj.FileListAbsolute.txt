@@ -1,0 +1,12 @@
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\bin\Release\serverDB.mdf
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\bin\Release\serverDB_log.ldf
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\bin\Release\Server.exe.config
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\bin\Release\Server.exe
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\bin\Release\Server.pdb
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\bin\Release\ProtocolSI.dll
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\obj\Release\Server.csproj.AssemblyReference.cache
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\obj\Release\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\obj\Release\Server.exe
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\Server\obj\Release\Server.pdb

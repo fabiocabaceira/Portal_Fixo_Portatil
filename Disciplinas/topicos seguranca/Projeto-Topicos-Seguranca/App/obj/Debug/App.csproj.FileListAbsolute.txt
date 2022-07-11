@@ -1,0 +1,264 @@
+C:\Users\TheSmiley\Desktop\TPS_Projeto\App\bin\Debug\App.exe.config
+C:\Users\TheSmiley\Desktop\TPS_Projeto\App\bin\Debug\App.exe
+C:\Users\TheSmiley\Desktop\TPS_Projeto\App\bin\Debug\App.pdb
+C:\Users\TheSmiley\Desktop\TPS_Projeto\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\TheSmiley\Desktop\TPS_Projeto\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\TheSmiley\Desktop\TPS_Projeto\App\obj\Debug\App.App.resources
+C:\Users\TheSmiley\Desktop\TPS_Projeto\App\obj\Debug\App.NavigationLogin.resources
+C:\Users\TheSmiley\Desktop\TPS_Projeto\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\TheSmiley\Desktop\TPS_Projeto\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\TheSmiley\Desktop\TPS_Projeto\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\TheSmiley\Desktop\TPS_Projeto\App\obj\Debug\App.exe
+C:\Users\TheSmiley\Desktop\TPS_Projeto\App\obj\Debug\App.pdb
+C:\Users\TheSmiley\Desktop\TPS_Projeto\App\obj\Debug\App.Login.resources
+C:\Users\2211904\Downloads\TPS_Projeto\App\bin\Debug\App.exe.config
+C:\Users\2211904\Downloads\TPS_Projeto\App\bin\Debug\App.exe
+C:\Users\2211904\Downloads\TPS_Projeto\App\bin\Debug\App.pdb
+C:\Users\2211904\Downloads\TPS_Projeto\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\2211904\Downloads\TPS_Projeto\App\obj\Debug\App.App.resources
+C:\Users\2211904\Downloads\TPS_Projeto\App\obj\Debug\App.Login.resources
+C:\Users\2211904\Downloads\TPS_Projeto\App\obj\Debug\App.NavigationLogin.resources
+C:\Users\2211904\Downloads\TPS_Projeto\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\2211904\Downloads\TPS_Projeto\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\2211904\Downloads\TPS_Projeto\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\2211904\Downloads\TPS_Projeto\App\obj\Debug\App.exe
+C:\Users\2211904\Downloads\TPS_Projeto\App\obj\Debug\App.pdb
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.exe
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.pdb
+C:\Users\pedro\Downloads\TPS_Projeto\App\bin\Debug\App.exe.config
+C:\Users\pedro\Downloads\TPS_Projeto\App\bin\Debug\App.exe
+C:\Users\pedro\Downloads\TPS_Projeto\App\bin\Debug\App.pdb
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.App.resources
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.NavigationLogin.resources
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.AppHeader.resources
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.LoginForm.resources
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.RegisterForm.resources
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.NavigationLoggedIn.resources
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.ChatLayout.resources
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.YourMessage.resources
+C:\Users\pedro\Downloads\TPS_Projeto\App\obj\Debug\App.NotYourMessage.resources
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.exe
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.pdb
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\bin\Debug\Assets\font\RobotoSlab-Bold.ttf
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\bin\Debug\Assets\font\RobotoSlab-Regular.ttf
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\bin\Debug\App.exe.config
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\bin\Debug\App.exe
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\bin\Debug\App.pdb
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.App.resources
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.ChatLayout.resources
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.AppHeader.resources
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.LoginForm.resources
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.NotYourMessage.resources
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.NavigationLogin.resources
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.NavigationLoggedIn.resources
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.RegisterForm.resources
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.YourMessage.resources
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\2211904\Downloads\2213128_2211904_2211907\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\2211904\Desktop\teste\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\2211904\Desktop\teste\Projeto-Topicos-Seguranca\App\obj\Debug\App.exe
+C:\Users\2211904\Desktop\teste\Projeto-Topicos-Seguranca\App\obj\Debug\App.pdb
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Bold.ttf
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Regular.ttf
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe.config
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\App.pdb
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.App.resources
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.ChatLayout.resources
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.AppHeader.resources
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.LoginForm.resources
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.NotYourMessage.resources
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLogin.resources
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLoggedIn.resources
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.RegisterForm.resources
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.YourMessage.resources
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.exe
+C:\Users\2211904\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.pdb
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.exe
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.pdb
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Bold.ttf
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Regular.ttf
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe.config
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\App.pdb
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.App.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.ChatLayout.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.AppHeader.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.LoginForm.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.NotYourMessage.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLogin.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLoggedIn.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.RegisterForm.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.YourMessage.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Bold.ttf
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Regular.ttf
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe.config
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\App.pdb
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.App.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.ChatLayout.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.AppHeader.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.LoginForm.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.NotYourMessage.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLogin.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLoggedIn.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.RegisterForm.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.YourMessage.resources
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.exe
+C:\Users\pedro\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.pdb
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Bold.ttf
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Regular.ttf
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe.config
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\App.pdb
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Server.exe
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\ProtocolSI.dll
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Server.pdb
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Server.exe.config
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.App.resources
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.ChatLayout.resources
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.AppHeader.resources
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.LoginForm.resources
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.NotYourMessage.resources
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLogin.resources
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLoggedIn.resources
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.RegisterForm.resources
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.YourMessage.resources
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.exe
+C:\Users\2211904\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.pdb
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.exe
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.pdb
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Bold.ttf
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Regular.ttf
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe.config
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\App.pdb
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\ProtocolSI.dll
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Server.exe
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Server.pdb
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Server.exe.config
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.App.resources
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.ChatLayout.resources
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.AppHeader.resources
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.LoginForm.resources
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.NotYourMessage.resources
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLogin.resources
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLoggedIn.resources
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.RegisterForm.resources
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.YourMessage.resources
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.exe
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.pdb
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Bold.ttf
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Regular.ttf
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe.config
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\App.pdb
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\ProtocolSI.dll
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Server.exe
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Server.pdb
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\bin\Debug\Server.exe.config
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.App.resources
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.ChatLayout.resources
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.AppHeader.resources
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.LoginForm.resources
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.NotYourMessage.resources
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLogin.resources
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLoggedIn.resources
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.RegisterForm.resources
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.YourMessage.resources
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.Loader.resources
+C:\Users\TheSmiley\Downloads\Projeto-Topicos-Seguranca\App\obj\Debug\App.Notification.resources
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Bold.ttf
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Regular.ttf
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe.config
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\App.pdb
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\ProtocolSI.dll
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\Server.exe
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\Server.pdb
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\bin\Debug\Server.exe.config
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.App.resources
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.ChatLayout.resources
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.AppHeader.resources
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.Loader.resources
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.LoginForm.resources
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.NotYourMessage.resources
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLogin.resources
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLoggedIn.resources
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.Notification.resources
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.RegisterForm.resources
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.YourMessage.resources
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.exe
+C:\Users\TheSmiley\Desktop\Projeto-Topicos-Seguranca\App\obj\Debug\App.pdb
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Bold.ttf
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\Assets\font\RobotoSlab-Regular.ttf
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe.config
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\App.exe
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\App.pdb
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\ProtocolSI.dll
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\Server.exe
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\Server.pdb
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\bin\Debug\Server.exe.config
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.App.resources
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.ChatLayout.resources
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.AppHeader.resources
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.Loader.resources
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.LoginForm.resources
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.NotYourMessage.resources
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLogin.resources
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.NavigationLoggedIn.resources
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.Notification.resources
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.RegisterForm.resources
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.YourMessage.resources
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.exe
+C:\Users\fabio\Documents\GitHub\torre-portatil\Disciplinas\topicos seguranca\Projeto-Topicos-Seguranca\App\obj\Debug\App.pdb

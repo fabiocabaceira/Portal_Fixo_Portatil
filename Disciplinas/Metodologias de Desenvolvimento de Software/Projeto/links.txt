@@ -1,0 +1,4 @@
+https://fabiocabaceira.atlassian.net/jira/software/projects/PPP/boards/2/backlog
+https://fabiocabaceira.atlassian.net/jira/software/projects/MPD/boards/3
+https://github.com/MoxxIsHere/PSI_PWS_PLTV-E
+https://github.com/MoxxIsHere/PSI_DA_PLTV-E

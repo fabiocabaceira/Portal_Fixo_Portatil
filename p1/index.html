@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>pt1-Calculadoradoguetto</title>
+    <style>
+        button {
+            text-align: center;
+            background-color: limegreen; /* Green */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+        }
+
+        input[type=text] {
+            text-align: center;
+            background-color: white;
+            color: black;
+        }
+
+        select{
+            text-align: center;
+            background-color: limegreen;
+            color: white;
+
+        }
+        form{
+            align-content: center;
+        }
+
+        .centro{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 100vh;
+            background-color: coral;
+        }
+    </style>
+</head>
+<body>
+
+<div class="centro">
+    <form action="functions.php" method="get">
+           <input type="text" name="num01" placeholder="Número 1">
+      <select name="oper">
+         <label>Escolhe a operação que queres realizar!</label>
+         <option value="soma">soma</option>
+         <option value="sub">subtração</option>
+         <option value="div">divisão</option>
+           <option value="mul">multiplicação</option>
+        </select>
+            <input type="text" name="num02" placeholder="Número 2">
+        <button type="submit">Calcular!</button>
+    </form>
+</div>
+</body>
+</html>
